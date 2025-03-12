@@ -14,7 +14,7 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 
 ### Dataset used in this paper:
 1.	[PU](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)
-2.	[CWRU](https://data.caltech.edu/records/mzrjq-6wc02)
+2.	[CWRU](https://pan.baidu.com/s/1Z1pznf-snyXB5jBzlXbUEw?pwd=4fpx#list/path=%2F&parentPath=%2Fsharelink667481542-561356365509374)
 
 ### How to reproduce the experimental results of surface defect classification.
 1.	find the `cal_101_resnet.py` file in classification folder:
