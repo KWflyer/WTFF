@@ -8,4 +8,10 @@ If you find this code is useful and helpful to your work, please cite our paper 
 
 If there are any questions about source code, please do not hesitate to contact Yang Wei(weiyangkabu@stu.scu.edu.cn) and me (kai.wang@scu.edu.cn). Special thanks to Rui Luo for helping to arrange and re-implement the code.
 
+## How to use the code
+### Running environment:
+The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framework on a desktop computer equipped with an Intel i9 12900k CPU and an NVIDIA RTX 3090 GPU.
 
+### Dataset used in this paper:
+1.	[PU](http://www.cs.toronto.edu/~kriz/cifar.html)
+2.	[CWRU](https://data.caltech.edu/records/mzrjq-6wc02)
