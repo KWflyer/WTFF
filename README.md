@@ -13,7 +13,7 @@ If there are any questions about source code, please do not hesitate to contact 
 The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framework on a desktop computer equipped with an Intel i9 12900k CPU and an NVIDIA RTX 3090 GPU.
 
 ### Dataset used in this paper:
-1.	[PU](http://www.cs.toronto.edu/~kriz/cifar.html)
+1.	[PU](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)
 2.	[CWRU](https://data.caltech.edu/records/mzrjq-6wc02)
 
 ### How to reproduce the experimental results of surface defect classification.
