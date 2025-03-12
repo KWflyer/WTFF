@@ -15,3 +15,10 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 ### Dataset used in this paper:
 1.	[PU](http://www.cs.toronto.edu/~kriz/cifar.html)
 2.	[CWRU](https://data.caltech.edu/records/mzrjq-6wc02)
+
+### How to reproduce the experimental results of surface defect classification.
+1.	find the `cal_101_resnet.py` file in classification folder:
+2.	configurable arguments:
+    ``` train.py [--link_place LINK_PLACE] [--re_co RE_CO] [--backbone BACKBONE] ```
+3.	train your backbone
+4.	evaluating results will automatically show after training.
