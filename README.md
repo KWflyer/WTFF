@@ -22,7 +22,8 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 
 
 ### How to reproduce the experimental results of  Machinery Fault Diagnosis.
-1.	find the `cal_101_resnet.py` file in classification folder:
+1.
+1.	find the `run_main.py` file in WTFF folder:
 2.	configurable arguments:
     ``` train.py [--link_place LINK_PLACE] [--re_co RE_CO] [--backbone BACKBONE] ```
 3.	train your backbone
