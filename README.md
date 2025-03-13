@@ -1,8 +1,8 @@
 # Multi-Domain Time-Frequency Fusion Feature Contrastive Learning for Machinery Fault Diagnosis-- Wide Kernel Time-Frequency Fusion （WTFF）
 
-The source code is for the following paper which will be available soon!
+The source code is for the following paper :
 
-Yang Wei，Kai Wang. Multi-Domain Time-Frequency Fusion Feature Contrastive Learning for Machinery Fault Diagnosis[J]. IEEE Signal Processing Letters, 2025.
+Wei Y, Wang K. Multi-Domain Time-Frequency Fusion Feature Contrastive Learning for Machinery Fault Diagnosis[J]. IEEE Signal Processing Letters, 2025 (99): 1-5.
 
 If you find this code is useful and helpful to your work, please cite our paper in your research work. Thanks.
 
