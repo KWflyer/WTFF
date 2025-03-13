@@ -2,7 +2,7 @@
 
 The source code is for the following paper :
 
-Wei Y, Wang K. Multi-Domain Time-Frequency Fusion Feature Contrastive Learning for Machinery Fault Diagnosis[J]. IEEE Signal Processing Letters, 2025 (99): 1-5.
+Wei Y, Wang K. Multi-Domain Time-Frequency Fusion Feature Contrastive Learning for Machinery Fault Diagnosis[J]. IEEE Signal Processing Letters, 2025 (99): 1-5.（https://ieeexplore.ieee.org/document/10910177）
 
 If you find this code is useful and helpful to your work, please cite our paper in your research work. Thanks.
 
@@ -16,7 +16,12 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 1.	[PU](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)
 2.	[JNU](https://github.com/ClarkGableWang/JNU-Bearing-Dataset)
 
-### How to reproduce the experimental results of surface defect classification.
+### Experimental results:
+
+
+
+
+### How to reproduce the experimental results of  Machinery Fault Diagnosis.
 1.	find the `cal_101_resnet.py` file in classification folder:
 2.	configurable arguments:
     ``` train.py [--link_place LINK_PLACE] [--re_co RE_CO] [--backbone BACKBONE] ```
