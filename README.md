@@ -16,11 +16,6 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 1.	[PU](https://mb.uni-paderborn.de/kat/forschung/kat-datacenter/bearing-datacenter/data-sets-and-download)
 2.	[JNU](https://github.com/ClarkGableWang/JNU-Bearing-Dataset)
 
-### Experimental results:
-
-
-
-
 ### How to reproduce the experimental results of  Machinery Fault Diagnosis.
 1.
 1.	find the `run_main.py` file in WTFF folder:
