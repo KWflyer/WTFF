@@ -17,7 +17,8 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 2.	[JNU](https://github.com/ClarkGableWang/JNU-Bearing-Dataset)
 
 ### How to reproduce the experimental results of  Machinery Fault Diagnosis.
-1.
+1.根据提供数据集地址，下载好实验所需的数据集，并将他们分别存放在dataset文件夹下的相应子文件夹中。
+2.find the `requirements.txt` file in WTFF folder， Configure Environment：``` pip install -r requirements.txt ```
 1.	find the `run_main.py` file in WTFF folder:
 2.	configurable arguments:
     ``` train.py [--link_place LINK_PLACE] [--re_co RE_CO] [--backbone BACKBONE] ```
