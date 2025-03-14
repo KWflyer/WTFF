@@ -20,7 +20,7 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 1.  According to the provided dataset addresses, download the required datasets for the experiment and store them in the respective subfolders under the 'dataset' folder.
 
 2.  find the `requirements.txt` file in WTFF folder， Configure Environment：``` pip install -r requirements.txt ```
-3.	find the `run_main.py` file in WTFF folder:
+3.	find the `run_main.py` file in WTFF folder，According to the experiment you are going to conduct, set the parameters in the 'run_main.py' file.
 4.	configurable arguments:
     ``` train.py [--link_place LINK_PLACE] [--re_co RE_CO] [--backbone BACKBONE] ```
 5.	train your backbone
