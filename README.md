@@ -26,9 +26,7 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
   	
   	In brief, you can modify various aspects of the model including its training mode ，number of data loading threads, maximum training epochs, batch size, optimizer, learning rate, and other parameters by adjusting the values of the respective parameters in the configuration.
 
-这样修改后，使用了"which"引导的非限定性定语从句来解释parameters中的具体内容。
 
-这种表达更加流畅，并且明确了操作的目的和方法。
 5.	Train your backbone and 
 6.	train your backbone
 7.	evaluating results will automatically show after training.
