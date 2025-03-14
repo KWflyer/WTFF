@@ -21,7 +21,7 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 
 2.  Configure Environment：  Find the `requirements.txt` file in WTFF folder and configure Environment：``` pip install -r requirements.txt ```
 3.	 Configurable arguments:  Find the `run_main.py` file in WTFF folder，According to the experiment you are going to conduct, set the parameters in the `run_main.py` file.
-   For  example：If you wish to use a different dataset for training and testing the model, you can achieve this by modifying the file path specified under `data`of the parameter.You can select the model's training mode by modifying the value of `train-mode` in the parameters, which includes 'finetune' representing fine-tuning the model, 'time-frequency' indicating both pre-training and fine-tuning the model, and 'evaluate' signifying testing the model.
+    For  example：If you wish to use a different dataset for training and testing the model, you can achieve this by modifying the file path specified under `data`of the parameter.You can select the model's training mode by modifying the value of `train-mode` in the parameters, which includes 'finetune' representing fine-tuning the model, 'time-frequency' indicating both pre-training and fine-tuning the model, and 'evaluate' signifying testing the model.
 
 这样修改后，使用了"which"引导的非限定性定语从句来解释parameters中的具体内容。
 
