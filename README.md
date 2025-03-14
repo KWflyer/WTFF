@@ -18,9 +18,10 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 
 ### How to reproduce the experimental results of  Machinery Fault Diagnosis.
 1."According to the provided dataset addresses, download the required datasets for the experiment and store them in the respective subfolders under the 'dataset' folder."
+
 2.find the `requirements.txt` file in WTFF folder， Configure Environment：``` pip install -r requirements.txt ```
-1.	find the `run_main.py` file in WTFF folder:
-2.	configurable arguments:
+3.	find the `run_main.py` file in WTFF folder:
+4.	configurable arguments:
     ``` train.py [--link_place LINK_PLACE] [--re_co RE_CO] [--backbone BACKBONE] ```
-3.	train your backbone
-4.	evaluating results will automatically show after training.
+5.	train your backbone
+6.	evaluating results will automatically show after training.
