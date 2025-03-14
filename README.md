@@ -21,7 +21,9 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
 
 2.  Configure Environment：  Find the `requirements.txt` file in WTFF folder and configure Environment：``` pip install -r requirements.txt ```
 3.	 Configurable arguments:  Find the `run_main.py` file in WTFF folder，According to the experiment you are going to conduct, set the parameters in the `run_main.py` file.
-   For  example：
+   For  example：If you wish to use a different dataset for training and testing the model, you can achieve this by modifying the file path specified under `data`of the parameter.
+
+这种表达更加流畅，并且明确了操作的目的和方法。
 5.	Train your backbone and 
 6.	train your backbone
 7.	evaluating results will automatically show after training.
