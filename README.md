@@ -27,6 +27,8 @@ The proposed methods are implemented in Python 3.9.7 with PyTorch 1.12.0 framewo
   	In brief, you can modify various aspects of the model including its training mode ，number of data loading threads, maximum training epochs, batch size, optimizer, learning rate, and other parameters by adjusting the values of the respective parameters in the configuration.
 
 
-5.	Train your backbone and 
-6.	train your backbone
-7.	evaluating results will automatically show after training.
+5.	Train your backbone  
+6.	Evaluating results will automatically show after training.
+
+### Tips: 
+The experimental results included in the above "runs" files are re-calculated when submitting code, which may be a slight deviation from the results reported in our paper due to the effects of randomness of choosing training samples.You can conduct multiple experiments to obtain results that are the same as or similar to those reported in the paper.
